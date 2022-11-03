@@ -26,6 +26,11 @@
     margin:.7rem 0 2rem 0;
     border: none;
 }
+.btn-register:hover{
+    background-color: var(--cor-letra-btn);
+    cursor: pointer;
+    transition: 500ms;
+}
 .link-btn{
     color: var(--cor-fundo);
     text-decoration: none;
@@ -41,6 +46,11 @@
     margin-right: .3rem;
     color: aliceblue;
 
+}
+.attribution{
+    text-align: center;
+    font-family: var(--font-secundaria);
+    
 }
 
 @media screen and (min-width:1024px) {

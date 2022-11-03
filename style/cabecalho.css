@@ -4,6 +4,11 @@
 .logo-image{
     width: 120px;
 }
+.logo-image:hover{
+    fill: red;
+}
+
+
 
 @media screen and (min-width:1024px) {
     .cabecalho{
