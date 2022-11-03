@@ -50,7 +50,12 @@
 .attribution{
     text-align: center;
     font-family: var(--font-secundaria);
+    font-weight: bold;
     
+}
+.link-footer{
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.613);
 }
 
 @media screen and (min-width:1024px) {
